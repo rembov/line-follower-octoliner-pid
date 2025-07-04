@@ -57,7 +57,7 @@ line-follower-octoliner-pid/
 
 1. Подключите Octoliner к Arduino (SDA/SCL, питание).
 2. Установите библиотеку Octoliner (например, загрузите с GitHub Amperka) :contentReference[oaicite:2]{index=2}.
-3. Откройте `line_follower.ino` в Arduino IDE.
+3. Откройте `Big_TANK_SmartLine.ino` в Arduino IDE.
 4. Убедитесь в корректности подключений моторов и кнопки.
 5. Загрузите код на контроллер.
 6. Нажмите кнопку — робот начнёт следовать по линии.
