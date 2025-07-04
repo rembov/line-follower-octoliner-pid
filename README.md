@@ -46,12 +46,8 @@
 ````
 
 line-follower-octoliner-pid/
-├── line\_follower.ino      # Основной скетч
+├── Big_TANK_SmartLine.ino      # Основной скетч
 ├── README.md             # Документация
-├── images/
-│   └── robot\_example.jpg # Фото робота (при желании)
-└── lib/
-└── Octoliner/        # Библиотека sed Octoliner
 
 ````
 
